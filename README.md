@@ -12,6 +12,8 @@ Download media from platforms like **YouTube**, **SoundCloud**, and more — wit
 
 <img src="ros-download.png" alt="ROS Download interface" width="900"/>
 
+</div>
+
 ---
 
 ## ✦ What is ROS Download?
@@ -103,124 +105,6 @@ The application is designed around local files, folders and a native desktop wor
 Dark surfaces, restrained accents and clear hierarchy keep the interface focused on the media itself.
 
 ---
-
-## 🧩 Typical Workflow
-
-```text
-┌──────────────┐
-│ Paste URL    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   Analyze    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Media Info   │
-│ + Preview    │
-└──────┬───────┘
-       │
-       ▼
-┌────────────────────┐
-│ Video    │  Audio  │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Quality / Format   │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Output Folder      │
-└─────────┬──────────┘
-          │
-          ▼
-┌──────────────┐
-│   Download   │
-└──────────────┘
-```
-
----
-
-## 🛠️ Development
-
-ROS Download is structured as a desktop application with a strong emphasis on:
-
-- clean UI
-- predictable download flows
-- clear separation between analysis and downloading
-- local file handling
-- readable logs
-- maintainable platform integrations
-
-If you are contributing, keep changes focused and avoid adding complexity where a simpler implementation works.
-
----
-
-## 📌 Roadmap
-
-Potential areas for future development:
-
-- [ ] Playlist / batch downloads
-- [ ] Download queue
-- [ ] Pause / resume support
-- [ ] More media platforms
-- [ ] More audio formats
-- [ ] Download history
-- [ ] Filename templates
-- [ ] Metadata embedding
-- [ ] Improved progress reporting
-- [ ] Automatic update system
-- [ ] Portable build
-
----
-
-## ⚠️ Responsible Use
-
-ROS Download is a tool for downloading media from supported online platforms.
-
-**Only download content when you have the right or permission to do so.** Respect copyright, licensing restrictions, privacy, and the terms of service of the platforms you use.
-
-The availability of a downloader does not grant permission to download or redistribute copyrighted material.
-
----
-
-## 🤝 Contributing
-
-Contributions, bug reports and ideas are welcome.
-
-A good contribution should:
-
-1. Solve a concrete problem.
-2. Keep the UI simple.
-3. Avoid unnecessary dependencies or abstraction.
-4. Preserve existing functionality.
-5. Include clear reproduction steps when fixing a bug.
-
----
-
-## 📄 License
-
-Add the project's license here.
-
-For example:
-
-```text
-MIT License
-```
-
-if the repository is released under MIT.
-
----
-
-<div align="center">
-
-### ROS Download
-
-**Simple. Fast. Focused.**
 
 Made with ❤️ by **vinter0x**
 
