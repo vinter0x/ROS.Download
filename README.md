@@ -47,7 +47,7 @@ It is designed for people who want a downloader that feels more like a real desk
 ROS Download is intended to work with popular media platforms, including:
 
 - **YouTube**
-- **SoundCloud (Soon...)**
+- **SoundCloud**
 - Other supported sources as the downloader evolves
 
 > Platform support depends on the underlying extraction/download capabilities and may change as third-party services update their systems.
