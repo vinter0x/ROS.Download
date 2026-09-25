@@ -10,7 +10,7 @@ Download media from platforms like **YouTube**, **SoundCloud**, and more — wit
 
 <br>
 
-<img src="assets/ros-download.png" alt="ROS Download interface" width="900"/>
+<img src="assets/ROS.dl.png" alt="ROS Download interface" width="900"/>
 
 </div>
 
